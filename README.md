@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on analyzing retail sales data to derive actionable business insights. The primary objective is to clean and standardize raw transactional data and perform exploratory and descriptive analysis to understand sales performance, customer behavior, and product trends. The analysis supports data-driven decision-making for sales optimization and customer segmentation.
+This project focuses on analyzing retail sales data to derive actionable business insights. The primary objective is to clean and standardize raw transactional data and perform exploratory and descriptive analysis to understand sales performance, customer behavior, and product trends.The analysis supports data-driven decision-making for sales optimization and customer segmentation.
 
 ## Objectives
 
