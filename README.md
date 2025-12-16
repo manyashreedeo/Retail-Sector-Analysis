@@ -60,9 +60,3 @@ The following data quality issues were identified and resolved:
 3. Run analytical queries to generate summaries and insights
 4. Review results and visualizations for interpretation
 
-## Author
-
-**Manya Shree Deo**
-B.Com (Honours), KIIT University
-Aspiring Data Analyst
-
